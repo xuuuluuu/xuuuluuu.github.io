@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xu Lu"
+title                    : "Welcome to my cite!"
 title_separator          : "-"
 name                     : &name "Xu Lu"
 description              : &description "personal description of xulu "
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Welcome to my cite!"
+  name             : "Xu Lu"
   avatar           : "share.png"
   bio              : "Ph.D"
   location         : "Singapore"
