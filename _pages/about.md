@@ -12,3 +12,39 @@ redirect_from:
 Welcome! I am currently under a joint PhD programme between [Alibaba DAMO Academy](https://damo.alibaba.com/) and [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). I received my Master of Engineering degree from the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), and my Bachelor of Engineering (with SUMMA CUM LAUDE) from the [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/).
 
 My work has been published in conferences including ACL, EMNLP, NAACL, and AAAI. My research focuses on Natural Language Processing (NLP), including information extraction and sentiment analysis. While my primary focus is on NLP, I also spend some of my time in general machine learning and Computer Vision (CV) fields.
+
+
+A data-driven personal website
+======
+[Sampling Better Negatives for Distantly Supervised Named Entity Recognition]()
+**Lu Xu**, Lidong Bing, Wei Lu
+In Findings of ACL, 2023
+
+[Class-Adaptive Self-Training for Relation Extraction with Incompletely Annotated Training Data]()
+Qingyu Tan, **Lu Xu**, Lidong Bing, Hwee Tou Ng
+In Findings of ACL, 2023
+
+[Revisiting DocRED--Addressing the False Negative Problem in Relation Extraction](https://aclanthology.org/2022.emnlp-main.580.pdf)
+Qingyu Tan\*, **Lu Xu\***, Lidong Bing, Hwee Tou Ng
+In Proceedings of EMNLP, 2022
+
+[Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction](https://aclanthology.org/2021.acl-long.367.pdf)
+**Lu  Xu\***, Yew Ken Chia\*, and Lidong Bing
+In Proceedings of ACL, 2021
+
+[Better Feature Integration for Named Entity Recognition](https://arxiv.org/pdf/2104.05316.pdf)
+**Lu  Xu**, Zhanming Jie, Wei Lu, and Lidong Bing
+In Proceedings of NAACL, 2021
+
+[Position-Aware Tagging for Aspect Sentiment Triplet Extraction](https://arxiv.org/pdf/2010.02609.pdf)
+**Lu  Xu\***,  Hao  Li\*,  Wei  Lu,  and  Lidong  Bing
+In Proceedings of EMNLP, 2020
+
+
+[Aspect Sentiment Classification with Aspect-Specific Opinion Spans](https://arxiv.org/pdf/2010.02696.pdf)
+**Lu  Xu**, Lidong Bing, Wei Lu, and Fei Huang
+In Proceedings of EMNLP, 2020
+
+[Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis](https://ojs.aaai.org//index.php/AAAI/article/view/6383)
+Haiyun Peng, **Lu Xu**, Lidong Bing, Fei Huang, Wei Lu,and  Luo  Si
+In Proceedings of AAAI, 2020
