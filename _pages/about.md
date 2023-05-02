@@ -18,12 +18,9 @@ Recently, I am working on retrieval-augmented large language models (LLMs).
 
 Publications
 ======
-[Sampling Better Negatives for Distantly Supervised Named Entity Recognition]()
-<br/>
-**Lu Xu**, Lidong Bing, Wei Lu
-<br/>
+[Sampling Better Negatives for Distantly Supervised Named Entity Recognition]()<br/>
+**Lu Xu**, Lidong Bing, Wei Lu<br/>
 In Findings of ACL, 2023
-
 
 [Class-Adaptive Self-Training for Relation Extraction with Incompletely Annotated Training Data]()<br/>
 Qingyu Tan, **Lu Xu**, Lidong Bing, Hwee Tou Ng<br/>
@@ -44,7 +41,6 @@ In Proceedings of NAACL, 2021
 [Position-Aware Tagging for Aspect Sentiment Triplet Extraction](https://arxiv.org/pdf/2010.02609.pdf)<br/>
 **Lu  Xu\***,  Hao  Li\*,  Wei  Lu,  and  Lidong  Bing<br/>
 In Proceedings of EMNLP, 2020
-
 
 [Aspect Sentiment Classification with Aspect-Specific Opinion Spans](https://arxiv.org/pdf/2010.02696.pdf)
 **Lu  Xu**, Lidong Bing, Wei Lu, and Fei Huang
