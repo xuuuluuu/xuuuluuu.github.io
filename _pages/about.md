@@ -13,7 +13,7 @@ Greetings! I am currently a Researcher at the [Huawei Noah's Ark Lab](http://dev
 
 I have contributed to several well-known conferences such as ACL, EMNLP, NAACL, and AAAI, through my research which mainly focuses on Natural Language Processing (NLP) - specifically information extraction and sentiment analysis. However, I also dedicate a considerable amount of my time in other machine learning domains including Computer Vision (CV).
 
-My current work centers on retrieval-augmented large language models (LLMs). Should you be interested in pursuing a research internship position in our group, I would be happy to review your CV. Please do not hesitate to get in touch with me via email.
+My current work centers on retrieval-augmented large language models (LLMs). Should you be interested in pursuing a research internship position in our group, please do not hesitate to get in touch with me via email.
 
 <br/>
 
@@ -28,7 +28,7 @@ Qingyu Tan, **Lu Xu**, Lidong Bing, Hwee Tou Ng<br/>
 In Findings of ACL, 2023
 
 - [Revisiting DocRED--Addressing the False Negative Problem in Relation Extraction](https://aclanthology.org/2022.emnlp-main.580.pdf)<br/>
-Qingyu Tan\*, **Lu Xu\***, Lidong Bing, Hwee Tou Ng<br/>
+Qingyu Tan\*, **Lu Xu\***, Lidong Bing, Hwee Tou Ng, Sharifah Mahani Aljunied<br/>
 In Proceedings of EMNLP, 2022
 
 - [Learning Span-Level Interactions for Aspect Sentiment Triplet Extraction](https://aclanthology.org/2021.acl-long.367.pdf)<br/>
