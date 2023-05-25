@@ -19,7 +19,7 @@ My current work centers on retrieval-augmented large language models (LLMs). Sho
 
 Publications
 ======
-- [Sampling Better Negatives for Distantly Supervised Named Entity Recognition]()<br/>
+- [Sampling Better Negatives for Distantly Supervised Named Entity Recognition](https://arxiv.org/pdf/2305.13142.pdf)<br/>
 **Lu Xu**, Lidong Bing, Wei Lu<br/>
 In Findings of ACL, 2023
 
