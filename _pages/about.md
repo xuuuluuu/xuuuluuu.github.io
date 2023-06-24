@@ -23,7 +23,7 @@ Publications
 **Lu Xu**, Lidong Bing, Wei Lu<br/>
 In Findings of ACL, 2023
 
-- [Class-Adaptive Self-Training for Relation Extraction with Incompletely Annotated Training Data]()<br/>
+- [Class-Adaptive Self-Training for Relation Extraction with Incompletely Annotated Training Data](https://arxiv.org/pdf/2306.09697.pdf)<br/>
 Qingyu Tan, **Lu Xu**, Lidong Bing, Hwee Tou Ng<br/>
 In Findings of ACL, 2023
 
