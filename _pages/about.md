@@ -19,7 +19,7 @@ My current work centers on retrieval-augmented large language models (LLMs). Sho
 
 Academic Services
 ======
-PC/Reviewers: Standing reviewer of Computational Linguistics (CL), EMNLP 2023, CL 2023, NeurIPS 2023, ACL Rolling Review 2021-Present, AAAI 2023, NeurIPS  2022, EMNLP 2022, ICML 2022,  AAAI 2022, ICML 2021,  ACL 2021, EMNLP 2021,  NAACL 2021, AAAI 2021, ACL 2020,  EMNLP 2020
+**Program Committee/Reviewers**: Standing reviewer of Computational Linguistics (CL), EMNLP 2023, CL 2023, NeurIPS 2023, ACL Rolling Review 2021-Present, AAAI 2023, NeurIPS  2022, EMNLP 2022, ICML 2022,  AAAI 2022, ICML 2021,  ACL 2021, EMNLP 2021,  NAACL 2021, AAAI 2021, ACL 2020,  EMNLP 2020
 
 <br/>
 
