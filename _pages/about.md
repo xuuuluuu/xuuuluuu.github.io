@@ -25,6 +25,10 @@ Academic Services
 
 Publications
 ======
+- [Decomposed Prompt Tuning via Low-Rank Reparameterization](https://arxiv.org/pdf/2310.10094.pdf)<br/>
+Yao Xiao, **Lu Xu**, Jiaxi Li, Wei Lu, Xiaoli Li<br/>
+In Findings of EMNLP, 2023
+
 - [Sampling Better Negatives for Distantly Supervised Named Entity Recognition](https://arxiv.org/pdf/2305.13142.pdf)<br/>
 **Lu Xu**, Lidong Bing, Wei Lu<br/>
 In Findings of ACL, 2023
@@ -54,7 +58,7 @@ In Proceedings of EMNLP, 2020
 In Proceedings of EMNLP, 2020
 
 - [Knowing What, How and Why: A Near Complete Solution for Aspect-based Sentiment Analysis](https://ojs.aaai.org//index.php/AAAI/article/view/6383)<br/>
-Haiyun Peng, **Lu Xu**, Lidong Bing, Fei Huang, Wei Lu,and  Luo  Si<br/>
+Haiyun Peng, **Lu Xu**, Lidong Bing, Fei Huang, Wei Lu, and Luo Si<br/>
 In Proceedings of AAAI, 2020
 
 <br/>
