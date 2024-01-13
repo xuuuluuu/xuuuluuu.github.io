@@ -1,7 +1,7 @@
 ---
 permalink: /
 
-title: "About me"
+title: "Xu Lu's Homepage"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,11 +9,16 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am currently a researcher at the [Huawei Noah's Ark Lab](http://dev3.noahlab.com.hk/). Previously, I participated in the joint PhD programme offered by the [Alibaba DAMO Academy](https://damo.alibaba.com/) and the [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). My academic achievements include a Master of Engineering degree from the the [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/), and a Bachelor of Engineering degree from the SUTD, where I received the SUMMA CUM LAUDE.
+Hello! Welcome to my profile.
 
-I have contributed to several top-tier conferences such as ACL, EMNLP, NAACL, and AAAI, through my research which mainly focuses on Natural Language Processing (NLP) - specifically information extraction and sentiment analysis. Furthermore, I also dedicate a considerable amount of my time in other machine learning domains including Computer Vision (CV).
+I'm currently engaged as a researcher with Bytedance AI Lab's Machine Translation Team in Singapore. Before this, I was a researcher at Huawei Noah's Ark Lab, also based in Singapore.
 
-My current work centers on retrieval-augmented large language models (LLMs). Should you be interested in pursuing a research internship position in our group, please do not hesitate to get in touch with me via email.
+My academic journey includes a collaborative PhD program with [Alibaba DAMO Academy](https://damo.alibaba.com/) and [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). I hold a Master of Engineering from [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) and a Bachelor of Engineering from SUTD, graduating with top honors.
+
+My research, primarily in Natural Language Processing (NLP), has led me to contribute to prominent conferences like ACL, EMNLP, NAACL, and AAAI. Additionally, I explore other machine learning areas, particularly Computer Vision (CV) and Speech Recognition.
+
+Presently, I'm immersed in advancing Multimodal Machine Translation. If you're considering a research internship in our dynamic group, I encourage you to reach out to me via email.
+
 
 <br/>
 
