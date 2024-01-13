@@ -11,7 +11,7 @@ redirect_from:
 
 Hello! Welcome to my profile.
 
-I'm currently engaged as a researcher with Bytedance AI Lab's Machine Translation Team in Singapore. Before this, I was a researcher at Huawei Noah's Ark Lab, also based in Singapore.
+I'm currently engaged as a researcher with Bytedance Research's Machine Translation Team in Singapore. Before this, I was a researcher at Huawei Noah's Ark Lab, also based in Singapore.
 
 My academic journey includes a collaborative PhD program with [Alibaba DAMO Academy](https://damo.alibaba.com/) and [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). I hold a Master of Engineering from [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) and a Bachelor of Engineering from SUTD, graduating with top honors.
 
