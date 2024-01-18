@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xu Lu’s Homepage"
+title                    : "Xu Lu"
 title_separator          : "-"
 name                     : &name "Xu Lu"
 description              : &description "personal description of xulu "
