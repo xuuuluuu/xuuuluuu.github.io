@@ -9,15 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! Welcome to my profile.
-
-I'm currently engaged as a researcher with Bytedance Research's Machine Translation Team in Singapore. Before this, I was a researcher at Huawei Noah's Ark Lab, also based in Singapore.
+Hello! I'm currently engaged as a researcher with Bytedance Research's Machine Translation Team in Singapore. Before this, I was a researcher at Huawei Noah's Ark Lab, also based in Singapore.
 
 My academic journey includes a collaborative PhD program with [Alibaba DAMO Academy](https://damo.alibaba.com/) and [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). I hold a Master of Engineering from [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) and a Bachelor of Engineering from SUTD, graduating with top honors.
 
 My research, primarily in Natural Language Processing (NLP), has led me to contribute to prominent conferences like ACL, EMNLP, NAACL, and AAAI. Additionally, I explore other machine learning areas, particularly Computer Vision (CV) and Speech Recognition.
 
-Presently, I'm immersed in advancing Multimodal Machine Translation. If you're considering a research internship in our dynamic group, I encourage you to reach out to me via email.
+Presently, I'm immersed in advancing Multimodal Machine Translation. If you're considering a research internship/full time in our dynamic group, I encourage you to reach out to me via email.
 
 
 <br/>
