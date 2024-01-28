@@ -28,6 +28,10 @@ Academic Services
 
 Publications
 ======
+- [Parameter-Efficient Conversational Recommender System as a Language Processing Task](https://arxiv.org/pdf/2401.14194.pdf)<br/>
+Mathieu Ravaut, Hao Zhang, **Lu Xu**, Aixin Sun, Yong Liu<br/>
+In Proceedings of EACL, 2024
+
 - [Decomposed Prompt Tuning via Low-Rank Reparameterization](https://arxiv.org/pdf/2310.10094.pdf)<br/>
 Yao Xiao, **Lu Xu**, Jiaxi Li, Wei Lu, Xiaoli Li<br/>
 In Findings of EMNLP, 2023
