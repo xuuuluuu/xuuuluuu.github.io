@@ -28,6 +28,10 @@ Academic Services
 
 Publications
 ======
+- [PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models](https://arxiv.org/pdf/2401.15042.pdf)<br/>
+Haochen Tan, Zhijiang Guo, Zhan Shi, **Lu Xu**, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song<br/>
+In Arxiv, 2024
+
 - [Parameter-Efficient Conversational Recommender System as a Language Processing Task](https://arxiv.org/pdf/2401.14194.pdf)<br/>
 Mathieu Ravaut, Hao Zhang, **Lu Xu**, Aixin Sun, Yong Liu<br/>
 In Proceedings of EACL, 2024
