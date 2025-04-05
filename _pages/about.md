@@ -9,25 +9,29 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm currently engaged as a researcher with Bytedance Research's Machine Translation Team in Singapore. Before this, I was a researcher at Huawei Noah's Ark Lab, also based in Singapore.
+Hello! I'm currently engaged as a researcher with Bytedance Research's SEED Team in Singapore. Before this, I was a researcher at Huawei Noah's Ark Lab, also based in Singapore.
 
 My academic journey includes a collaborative PhD program with [Alibaba DAMO Academy](https://damo.alibaba.com/) and [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). I hold a Master of Engineering from [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) and a Bachelor of Engineering from SUTD, graduating with top honors.
 
 My research, primarily in Natural Language Processing (NLP), has led me to contribute to prominent conferences like ACL, EMNLP, NAACL, and AAAI. Additionally, I explore other machine learning areas, particularly Computer Vision (CV) and Speech Recognition.
 
-Presently, I'm immersed in advancing Multimodal Machine Translation. If you're considering a research internship/full time in our dynamic group, I encourage you to reach out to me via email.
+Presently, I'm immersed in advancing Multimodal LLM. If you're considering a research internship/full time in our dynamic group, I encourage you to reach out to me via email.
 
 
 <br/>
 
 Academic Services
 ======
-**Program Committee/Reviewers**: Standing reviewer of Computational Linguistics (CL), COLM 2024, ACL Rolling Review 2021-Present, EMNLP 2023, CL 2023, NeurIPS 2023, AAAI 2023, NeurIPS  2022, EMNLP 2022, ICML 2022,  AAAI 2022, ICML 2021,  ACL 2021, EMNLP 2021,  NAACL 2021, AAAI 2021, ACL 2020,  EMNLP 2020
+**Program Committee/Reviewers**:  ACL Acea Chair, Standing reviewer of Computational Linguistics (CL), COLM 2025, NeurIPS 2025, COLM 2024, ACL Rolling Review 2021-Present, EMNLP 2023, CL 2023, NeurIPS 2023, AAAI 2023, NeurIPS  2022, EMNLP 2022, ICML 2022,  AAAI 2022, ICML 2021,  ACL 2021, EMNLP 2021,  NAACL 2021, AAAI 2021, ACL 2020,  EMNLP 2020
 
 <br/>
 
 Publications
 ======
+- [Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent]()<br/>
+Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, **Lu Xu**, Qini Zhang<br/>
+Technical Report, 2024
+
 - [PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models](https://arxiv.org/pdf/2401.15042.pdf)<br/>
 Haochen Tan, Zhijiang Guo, Zhan Shi, **Lu Xu**, Zhili Liu, Xiaoguang Li, Yasheng Wang, Lifeng Shang, Qun Liu, Linqi Song<br/>
 In Proceedings of ACL, 2024
