@@ -9,14 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm currently engaged as a researcher with Bytedance Research's SEED Team in Singapore. Before this, I was a researcher at Huawei Noah's Ark Lab, also based in Singapore.
+Hello! I’m currently a researcher with the SEED Team at ByteDance in Singapore. Prior to this, I was part of the research team at Huawei Noah’s Ark Lab, also based in Singapore.
 
-My academic journey includes a collaborative PhD program with [Alibaba DAMO Academy](https://damo.alibaba.com/) and [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). I hold a Master of Engineering from [Massachusetts Institute of Technology (MIT)](https://www.mit.edu/) and a Bachelor of Engineering from SUTD, graduating with top honors.
+My academic journey includes a joint PhD program between the [Alibaba DAMO Academy](https://damo.alibaba.com/) and the [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). I also hold a Master of Engineering from the Massachusetts Institute of Technology (MIT) and a Bachelor of Engineering from SUTD, where I graduated with top honors.
 
-My research, primarily in Natural Language Processing (NLP), has led me to contribute to prominent conferences like ACL, EMNLP, NAACL, and AAAI. Additionally, I explore other machine learning areas, particularly Computer Vision (CV) and Speech Recognition.
+My research focuses primarily on Natural Language Processing (NLP), and I’ve had the opportunity to publish at leading conferences such as ACL, EMNLP, NAACL, and AAAI. I also actively explore other areas of machine learning, including Computer Vision (CV) and Speech Recognition.
 
-Presently, I'm immersed in advancing Multimodal LLM. If you're considering a research internship/full time in our dynamic group, I encourage you to reach out to me via email.
-
+Currently, my work centers on advancing Multimodal Large Language Models (LLMs). If you're interested in a research internship or full-time position within our dynamic team, feel free to reach out to me via email.
 
 <br/>
 
@@ -28,7 +27,7 @@ Academic Services
 
 Publications
 ======
-- [Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent]()<br/>
+- [Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent](https://arxiv.org/pdf/2407.21646)<br/>
 Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, **Lu Xu**, Qini Zhang<br/>
 Technical Report, 2024
 
