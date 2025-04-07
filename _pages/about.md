@@ -9,13 +9,13 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I’m currently a researcher with the SEED Team at ByteDance in Singapore. Prior to this, I was part of the research team at Huawei Noah’s Ark Lab, also based in Singapore.
+I’m currently focused on advancing Multimodal Large Language Models (LLMs) as a researcher with the Seed (LLM) Team at ByteDance in Singapore.
 
-My academic journey includes a joint PhD program between the [Alibaba DAMO Academy](https://damo.alibaba.com/) and the [Singapore University of Technology and Design (SUTD)](https://www.sutd.edu.sg/). I also hold a Master of Engineering from the Massachusetts Institute of Technology (MIT) and a Bachelor of Engineering from SUTD, where I graduated with top honors.
+Previously, I was with Huawei Noah’s Ark Lab, also in Singapore. My academic background includes a joint PhD between the Alibaba DAMO Academy and the Singapore University of Technology and Design (SUTD), a Master of Engineering from MIT, and a Bachelor of Engineering from SUTD, where I graduated with top honors.
 
-My research focuses primarily on Natural Language Processing (NLP), and I’ve had the opportunity to publish at leading conferences such as ACL, EMNLP, NAACL, and AAAI. I also actively explore other areas of machine learning, including Computer Vision (CV) and Speech Recognition.
+My core research area is Natural Language Processing (NLP), with publications in top venues like ACL, EMNLP, NAACL, and AAAI. I also explore areas such as Computer Vision and Speech Recognition.
 
-Currently, my work centers on advancing Multimodal Large Language Models (LLMs). If you're interested in a research internship or full-time position within our dynamic team, feel free to reach out to me via email.
+If you're interested in a research internship or full-time role with our team, feel free to reach out!
 
 <br/>
 
