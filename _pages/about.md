@@ -27,7 +27,7 @@ Academic Services
 
 Publications
 ======
-- [From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition] (https://arxiv.org/pdf/2505.16972)<br/>
+- [From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition](https://arxiv.org/pdf/2505.16972)<br/>
 Tianduo Wang, **Lu Xu**, Wei Lu, Shanbo Cheng<br/>
 Arxiv, 2025
 
