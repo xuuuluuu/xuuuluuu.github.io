@@ -27,6 +27,10 @@ Academic Services
 
 Publications
 ======
+- [From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition] (https://arxiv.org/pdf/2505.16972)<br/>
+Tianduo Wang, **Lu Xu**, Wei Lu, Shanbo Cheng<br/>
+Arxiv, 2025
+
 - [Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent](https://arxiv.org/pdf/2407.21646)<br/>
 Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, **Lu Xu**, Qini Zhang<br/>
 Technical Report, 2024
