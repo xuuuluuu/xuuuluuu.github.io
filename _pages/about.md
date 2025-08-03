@@ -27,6 +27,14 @@ Academic Services
 
 Publications
 ======
+- [Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice](https://arxiv.org/pdf/2507.17527)<br/>
+Shanbo Cheng, Yu Bao, Zhichao Huang, Yu Lu, Ningxin Peng, **Lu Xu**, Runsheng Yu, Rong Cao, Ting Han, Zeyang Li, Sitong Liu, Shengtao Ma, Shiguang Pan, Jiongchen Xiao, Nuo Xu, Meng Yang, Rong Ye, Yiming Yu, Ruofei Zhang, Wanyi Zhang, Wenhao Zhu, Liehao Zou, Lu Lu, Yuxuan Wang, Yonghui Wu<br/>
+Technical Report, 2025
+
+- [Seed-X: Building Strong Multilingual Translation LLM with 7B Parameters](https://arxiv.org/pdf/2507.13618?)<br/>
+Shanbo Cheng, Yu Bao, Qian Cao, Luyang Huang, Liyan Kang, Zhicheng Liu, Yu Lu, Wenhao Zhu, Jingwen Chen, Zhichao Huang, Tao Li, Yifu Li, Huiying Lin, Sitong Liu, Ningxin Peng, Shuaijie She, **Lu Xu**, Nuo Xu, Sen Yang, Runsheng Yu, Yiming Yu, Liehao Zou, Hang Li, Lu Lu, Yuxuan Wang, Yonghui Wu<br/>
+Technical Report, 2025
+
 - [From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition](https://arxiv.org/pdf/2505.16972)<br/>
 Tianduo Wang, **Lu Xu**, Wei Lu, Shanbo Cheng<br/>
 Arxiv, 2025
