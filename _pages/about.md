@@ -21,12 +21,16 @@ If you're interested in a research internship or full-time role with our team, f
 
 Academic Services
 ======
-**Program Committee/Reviewers**:  ACL Acea Chair, Standing reviewer of Computational Linguistics (CL), COLM 2025, NeurIPS 2025, COLM 2024, ACL Rolling Review 2021-Present, EMNLP 2023, CL 2023, NeurIPS 2023, AAAI 2023, NeurIPS  2022, EMNLP 2022, ICML 2022,  AAAI 2022, ICML 2021,  ACL 2021, EMNLP 2021,  NAACL 2021, AAAI 2021, ACL 2020,  EMNLP 2020
+**Program Committee/Reviewers**:  ACL Acea Chair, Standing reviewer of Computational Linguistics (CL), ACL Rolling Review 2021-Present, COLM 2025, NeurIPS 2025, COLM 2024, EMNLP 2023, CL 2023, NeurIPS 2023, AAAI 2023, NeurIPS  2022, EMNLP 2022, ICML 2022,  AAAI 2022, ICML 2021,  ACL 2021, EMNLP 2021,  NAACL 2021, AAAI 2021, ACL 2020,  EMNLP 2020
 
 <br/>
 
 Publications
 ======
+- [DuPO: Enabling Reliable LLM Self-Verification via Dual Preference Optimization](https://arxiv.org/pdf/2508.14460?)<br/>
+Shuaijie She, Yu Bao, Yu Lu, Lu Xu, Tao Li, Wenhao Zhu, Shujian Huang, Shanbo Cheng, Lu Lu, Yuxuan Wang<br/>
+In Proceedings of ICLR, 2026
+
 - [Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice](https://arxiv.org/pdf/2507.17527)<br/>
 Shanbo Cheng, Yu Bao, Zhichao Huang, Yu Lu, Ningxin Peng, **Lu Xu**, Runsheng Yu, Rong Cao, Ting Han, Zeyang Li, Sitong Liu, Shengtao Ma, Shiguang Pan, Jiongchen Xiao, Nuo Xu, Meng Yang, Rong Ye, Yiming Yu, Ruofei Zhang, Wanyi Zhang, Wenhao Zhu, Liehao Zou, Lu Lu, Yuxuan Wang, Yonghui Wu<br/>
 Technical Report, 2025
@@ -37,7 +41,7 @@ Technical Report, 2025
 
 - [From Tens of Hours to Tens of Thousands: Scaling Back-Translation for Speech Recognition](https://arxiv.org/pdf/2505.16972)<br/>
 Tianduo Wang, **Lu Xu**, Wei Lu, Shanbo Cheng<br/>
-Arxiv, 2025
+In Proceedings of EMNLP, 2025
 
 - [Towards Achieving Human Parity on End-to-end Simultaneous Speech Translation via LLM Agent](https://arxiv.org/pdf/2407.21646)<br/>
 Shanbo Cheng, Zhichao Huang, Tom Ko, Hang Li, Ningxin Peng, **Lu Xu**, Qini Zhang<br/>
