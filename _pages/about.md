@@ -27,8 +27,17 @@ Academic Services
 
 Publications
 ======
+
+- [GRRM: Group Relative Reward Modeling for Machine Translation](https://arxiv.org/pdf/2602.14028)<br/>
+Sen Yang, Shanbo Cheng, **Lu Xu**, Jianbing Zhang, Shujian Huang<br/>
+In Proceedings of EMNLP, 2026
+
+- [Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity](https://arxiv.org/abs/2607.00248)<br/>
+Bytedance Seed<br/>
+Model Card, 2026
+
 - [DuPO: Enabling Reliable LLM Self-Verification via Dual Preference Optimization](https://arxiv.org/pdf/2508.14460?)<br/>
-Shuaijie She, Yu Bao, Yu Lu, Lu Xu, Tao Li, Wenhao Zhu, Shujian Huang, Shanbo Cheng, Lu Lu, Yuxuan Wang<br/>
+Shuaijie She, Yu Bao, Yu Lu, **Lu Xu**, Tao Li, Wenhao Zhu, Shujian Huang, Shanbo Cheng, Lu Lu, Yuxuan Wang<br/>
 In Proceedings of ICLR, 2026
 
 - [Seed LiveInterpret 2.0: End-to-end Simultaneous Speech-to-speech Translation with Your Voice](https://arxiv.org/pdf/2507.17527)<br/>
